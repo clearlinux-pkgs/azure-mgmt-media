@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-media
 Version  : 2.1.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/0a/1e/cd988525891597f650b3f0706bb9dc7f5b568293e0f33655fbfb2276582b/azure-mgmt-media-2.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/0a/1e/cd988525891597f650b3f0706bb9dc7f5b568293e0f33655fbfb2276582b/azure-mgmt-media-2.1.0.zip
 Summary  : Microsoft Azure Media Services Client Library for Python
